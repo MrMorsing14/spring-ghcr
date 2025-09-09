@@ -15,4 +15,4 @@ jobs:
 
   docker-ci:
     needs: java-test
-    uses: ./.github/workflows/docker-ci-reusable.yml  
+    uses: ./.github/workflows/docker-ci-reusable.yml
